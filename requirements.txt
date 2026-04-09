@@ -1,0 +1,5 @@
+fastapi==0.68.0
+uvicorn==0.15.0
+PyMuPDF==1.18.14
+beautifulsoup4==4.9.3
+requests==2.25.1
